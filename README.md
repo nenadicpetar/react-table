@@ -1,4 +1,4 @@
-#App overview
+# App overview
 
 This app is created following the tutorial on Youtube (https://www.youtube.com/watch?v=NueuZjC9_Og&list=PLrb70iTVZjZND9GrkCjU7n6jREhAICSw_&index=2).
 
