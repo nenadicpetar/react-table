@@ -1,3 +1,7 @@
+#App overview
+
+This app is created following the tutorial on Youtube (https://www.youtube.com/watch?v=NueuZjC9_Og&list=PLrb70iTVZjZND9GrkCjU7n6jREhAICSw_&index=2). Thanks to Hassaan Raza from The Amazing Codeverse (https://www.youtube.com/c/HassaanRaza).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
